@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innotation)](https://github.com/anuraghazra/github-readme-stats)
-
 ![innotation's Stats](https://github-readme-stats.vercel.app/api?username=innotation&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![innotation's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innotation&theme=vue-dark&hide_border=true)
+
+![innotation's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innotation&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
