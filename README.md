@@ -15,8 +15,9 @@
 ### Backend
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
 ![](https://img.shields.io/badge/spring_boot-boot?style=for-the-badge&logo=springboot&logoColor=white&logoSize=auto&labelColor=6DB33F&color=6DB33F&cacheSeconds=3600)<br>
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br>
+![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)<br>
 ![](https://img.shields.io/badge/spring_data_jpa-spring?style=for-the-badge&logo=spring&logoColor=white&logoSize=auto&labelColor=6DB33F&color=6DB33F&cacheSeconds=3600)<br>
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br>
 ![](https://img.shields.io/badge/junit5-test?style=for-the-badge&logo=junit5&logoColor=white&logoSize=auto&labelColor=25A162&color=DC524A&cacheSeconds=3600)<br>
 
 ### Frontend
