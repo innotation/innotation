@@ -30,7 +30,6 @@
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)<br>
 ![](https://img.shields.io/badge/naver_cloud_platform-ncp?style=for-the-badge&logo=naver&logoColor=green&logoSize=auto&labelColor=white&color=03C75A&cacheSeconds=3600)<br>
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 
 ### 협업
