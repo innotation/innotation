@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innotation)](https://github.com/anuraghazra/github-readme-stats)
+
 ![innotation's Stats](https://github-readme-stats.vercel.app/api?username=innotation&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Here are some ideas to get you started:
