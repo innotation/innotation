@@ -8,8 +8,6 @@
 ![innotation's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innotation&theme=vue-dark&hide_border=true)<br>
 ![innotation's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innotation&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
 ## 🛠 기술 스택
 
 ### Backend
@@ -36,3 +34,5 @@
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
