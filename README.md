@@ -16,9 +16,11 @@
 ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)<br>
 ![](https://img.shields.io/badge/spring_data_jpa-spring?style=for-the-badge&logo=spring&logoColor=white&logoSize=auto&labelColor=6DB33F&color=6DB33F&cacheSeconds=3600)<br>
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br>
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 ![](https://img.shields.io/badge/junit5-test?style=for-the-badge&logo=junit5&logoColor=white&logoSize=auto&labelColor=25A162&color=DC524A&cacheSeconds=3600)<br>
 
 ### Frontend
+![](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
